@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Que fue que fue</title>
 </svelte:head>
 
 <section>
